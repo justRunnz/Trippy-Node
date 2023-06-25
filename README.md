@@ -1,4 +1,4 @@
-# Trippy-BackEnd
+# Trippy Node JS
 
 The server of the Trippy project, a web application that allows you to create and share your travel memories with your friends and family.
 
