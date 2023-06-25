@@ -51,5 +51,5 @@ If everything went well, you should now be able to use the app. Note that you ma
 This work has been made with students when we were in a group here is their github :
 
 <a href="https://github.com/justRunnz/Trippy-Node/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=https://github.com/justRunnz/Trippy-Node" />
+<img src="https://contrib.rocks/image?repo=https://github.com/justRunnz/Trippy-Node" />
 </a>
